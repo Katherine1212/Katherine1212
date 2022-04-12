@@ -4,7 +4,7 @@
 
 <div align="center" style="max-width: 60%;">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katherine1212&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-  <h2 align="left">💻 Usually I used </h2>
+  <h2 align="left">💻 Usually I used these stack when I work</h2>
   <br/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" align="left"/> <br/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white" align="left"/> <br/>
