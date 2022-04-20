@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" align="left"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" align="left"/> <br/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" align="left"/> <img src="https://img.shields.io/badge/Gitlab-FCA121?style=flat-square&logo=Gitlab&logoColor=white" align="left"/><br/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" align="left"/> 
-  
+  <bt/>
   <h5 align= "left">🔭 I’m currently working on Mileverse.</h5>
-  <h5 align= "left">😄 Pronouns: Korea(Mother tongue), English- Intermediate</h5>
+  <h5 align= "left">😄 Pronouns: Korean- Mother tongue, English- Intermediate</h5>
   <h5 align= "left">📫 Contact me: katherinekim971212@gmail.com</h5>
   <h5 align= "left"><a href="https://katherine97.tistory.com/"> ✏ Blog </a></h5>
 </div>
