@@ -5,11 +5,11 @@
 <div align="center" style="max-width: 60%;">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katherine1212&theme=radical&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   <h2 align="left">💻 Usually I used these stack when I work</h2>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" align="left"/> <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=NPM&logoColor=white" align="left"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white" align="left"/> <br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" align="left"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" align="left"/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white" align="left"/> <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white" align="left"/><br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" align="left"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" align="left"/> <br/>
-  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" align="left"/> <img src="https://img.shields.io/badge/Gitlab-FCA121?style=flat-square&logo=Gitlab&logoColor=white" align="left"/><br/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" align="left"/> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <br/>
   <h5 align= "left">🔭 I’m currently working on Mileverse.</h5>
   <h5 align= "left">😄 Pronouns: Korean- Mother tongue, English- Intermediate</h5>
