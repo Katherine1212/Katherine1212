@@ -14,7 +14,10 @@
   <h5 align= "left">🔭 I’m currently working on Mileverse.</h5>
   <h5 align= "left">😄 Pronouns: Korean- Mother tongue, English- Intermediate</h5>
   <h5 align= "left">📫 Contact me: katherinekim971212@gmail.com</h5>
-  <h5 align= "left"><a href="https://katherine97.tistory.com/"> ✏ Blog </a></h5>
-  <h5 align= "left"><a href="https://github.com/Katherine1212"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKatherine1212&count_bg=%23E1A5A5&title_bg=%23C27D7D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> </h5>
+  <h5 align= "left"> 
+  <a href="https://www.linkedin.com/in/jinah-kim-9b37411b9"> <img src="https://img.shields.io/badge/LikedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=#0A66C2"/></a> 
+ <a href="https://velog.io/@katherine_12"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=#20C997"/></a> 
+ <a href="https://github.com/Katherine1212"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKatherine1212&count_bg=%23E1A5A5&title_bg=%23C27D7D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+ </h5>
 </div>
 
