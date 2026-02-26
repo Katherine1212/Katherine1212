@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=Slice&color=9D848E&height=150&section=header&text=Katherinekim👋&fontSize=100&fontColor=C6AFB5&animation=twinkling" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=Katherine1212&show_icons=true&theme=radical"> <a href= "https://github.com/Katherine1212/github-readme-stats"/></img>
-
 <div align="center" style="max-width: 60%;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katherine1212&theme=radical&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   <h2 align="left">💻 Usually I used these stack when I work</h2>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -17,7 +13,6 @@
   <h5 align= "left"> 
   <a href="https://www.linkedin.com/in/jinah-kim-9b37411b9"> <img src="https://img.shields.io/badge/LikedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=#0A66C2"/></a> 
  <a href="https://velog.io/@katherine_12"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=#20C997"/></a> 
- <a href="https://github.com/Katherine1212"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKatherine1212&count_bg=%23E1A5A5&title_bg=%23C27D7D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
  </h5>
 </div>
 
