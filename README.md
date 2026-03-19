@@ -87,7 +87,7 @@ const developer = {
   <a href="https://velog.io/@katherine_12">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   </a>
-  <a href="[링크드인주소](https://www.linkedin.com/in/jinah-kim-9b37411b9)">
+  <a href="https://www.linkedin.com/in/jinah-kim-9b37411b9">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </div>
