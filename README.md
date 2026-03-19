@@ -49,7 +49,6 @@ const developer = {
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![PuTTY](https://img.shields.io/badge/PuTTY-0078D6?style=flat-square&logo=putty&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
 **AI Integration**
 
